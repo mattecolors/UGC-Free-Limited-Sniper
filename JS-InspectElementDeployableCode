@@ -22,7 +22,7 @@
     ".item-purchase-btns-container .btn-container button"
   );
   let catalogPageURL =
-    "https://web.roblox.com/catalog?Category=1&CurrencyType=3&pxMin=0&pxMax=0&salesTypeFilter=1&SortType=3&IncludeNotForSale";
+    "https://www.roblox.com/catalog?Category=1&CurrencyType=3&pxMin=0&pxMax=0&salesTypeFilter=1&SortType=3&IncludeNotForSale";
   let triesIfNotInSale = localStorage.getItem("rlb-tries-if-not-in-sale") || 0;
 
   if (firstItem && !isItemPage()) {
