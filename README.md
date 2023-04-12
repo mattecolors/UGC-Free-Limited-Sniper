@@ -10,7 +10,7 @@ Directions for the script are in the README file. This does not require sending 
 
 **YOU SHOULD SEE A BIG WARNING SIGN THAT SAYS STOP, IF YOU DO, YOU'RE IN THE RIGHT PLACE**
 
-4. Take this code and paste it in the Console
+4. Take the code that I have provided and paste it in the Console
 5. If it is done right, it should reload the page if the item is NOT for sale and auto-buy the item if it IS for sale (more changes to this will be coming soon).
 
 **EXTRA:**
