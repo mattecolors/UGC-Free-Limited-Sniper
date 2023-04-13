@@ -1,5 +1,5 @@
 # UGC-Free-Limited-Sniper
-Directions for the script are in the README file. This does not require sending your .ROBLOSECURITY file as anything that asks for it is probably malicious and trying to scam you. This is one of the few real ones.
+Directions for the script are in the README file. This does NOT require sending your .ROBLOSECURITY file as anything that asks for it is probably malicious and trying to scam you. This is one of the few real ones.
 
 
 **DIRECTIONS:**
